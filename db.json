@@ -1,0 +1,22 @@
+{
+    "tienda":[ 
+        {
+            "nombre":"Tienda 1",
+            "direccion":"Calle 21",
+            "telefono":"123456585789"
+        
+        },
+        {
+            "nombre":"Tienda 1",
+            "direccion":"Calle 1",
+            "telefono":"123456789"
+        
+        },
+       {
+        "nombre":"Tienda 2",
+        "direccion":"Calle 2",
+        "telefono":"123456789"
+       }
+     
+    ]
+}
