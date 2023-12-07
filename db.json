@@ -1,22 +1,163 @@
 {
-    "tienda":[ 
+    "aceites":[ 
         {
-            "nombre":"Tienda 1",
-            "direccion":"Calle 21",
-            "telefono":"123456585789"
-        
+            "nombre":"Aceite diesel, industrial, vehiculos ligeros ",
+            "marca":"Repsol",
+            "foto": "./TiendaOk/aceites/aceite repsol.png"
         },
         {
-            "nombre":"Tienda 1",
-            "direccion":"Calle 1",
-            "telefono":"123456789"
+            "nombre":"Limpia parabrisas",
+            "marca":"Repsol",
+            "foto": "./TiendaOk/aceites/limpiaparabrisas.png"
         
-        },
-       {
-        "nombre":"Tienda 2",
-        "direccion":"Calle 2",
-        "telefono":"123456789"
-       }
+        }],
+        "capazos":[
+            {
+                "nombre": "capazo1",
+                "medidas": "1x1x1",
+                "foto":"./TiendaOk/capazos/capazos-peque.png"
+            },
+            {
+                "nombre": "capazo2",
+                "medidas": "2x2",
+                "foto":"./TiendaOk/capazos/capazos-general.png"
+            },
+            {
+                "nombre": "capazo3",
+                "medidas": "3x3",
+                "foto":"./TiendaOk/capazos/capazos1.png"
+            }],
+            "carteleria":[
+                {
+                    "nombre":"peligro",
+                    "foto":"./TiendaOk/Carteleria/peligro.png"
+
+                },
+                {
+                    "nombre":"Prohibido el Paso",
+                    "foto":"./TiendaOk/Carteleria/prohibido-paso.png"
+                },
+                {
+                    "nombre":"Stop",
+                    "foto":"./TiendaOk/Carteleria/stop.png"
+                },
+                {
+                    "nombre":"Uso obligatorio de gafas de seguridad",
+                    "foto":"./TiendaOk/Carteleria/uso-gafas.png"
+                },
+                {
+                    "nombre":"Velocidad",
+                    "foto":"./TiendaOk/Carteleria/velocidad.png"
+                },
+                {
+                    "nombre":"Señales en general"
+                }],
+                "iluminacion":[
+                    {
+                        "nombre":"Focos de luz"
+                    },
+                    {
+                        "nombre":"Valisas"
+                    },
+                    {
+                        "nombre":"Luz de obra"
+                    }],
+                    "seguridad":[
+                        {
+                            "nombre":"Calzado de seguridad",
+                            "tallas": "39, 40, 41, 42, 43, 44, 45"
+                        },
+                        {
+                            "nombre":"Cascos de obra",
+                            "color": "Variedad"
+                        },
+                        {
+                            "nombre":"Faja lumbar"
+                        },
+                        {
+                            "nombre": "Rodilleras"
+                        },
+                        {
+                           "nombre":"Chaleco reflectante"
+                        },
+                        {
+                            "nombre":"Guantes"
+                        }
+                    ],
+                    "herramientas":[
+                        {
+                            "nombre":"Pilas"
+                        },
+                        {
+                            "nombre":"Baterias"
+                        },
+                        {
+                            "nombre":"Bidones de gasolina"
+                        },
+                        {
+                            "nombre":"Bomba de engrase"
+                        },
+                        {
+                            "nombre":"Bomba de presion"
+                        },
+                        {
+                            "nombre":"Botas de agua"
+                        },
+                        {
+                            "nombre":"Brocas Bosch"
+                        },
+                        {
+                            "nombre":"Carracas"
+                        },
+                        {
+                            "nombre":"Carretillas"
+                        },
+                        {
+                            "nombre":"Discos"
+                        },
+                        {
+                            "nombre":"Limpieza"
+                        },
+                        {
+                            "nombre":"Niveladores, espátulas"
+                        },
+                        {
+                            "nombre":"Espumas"
+                        },
+                        {
+                            "nombre":"Generadores"
+                        },
+                        {
+                            "nombre":"Grasas"
+                        },
+                        {
+                            "nombre":"Hachas"
+                        },
+                        {
+                            "nombre":"Llaves"
+                        },
+                        {
+                            "nombre":"Mangos, palos"
+                        },
+                        {
+                            "nombre":"Picos, rastrillos"
+                        },
+                        {
+                            "nombre":"Sogas"
+                        },
+                        {
+                            "nombre":"Taco Fisher"
+                        },
+                        {
+                            "nombre":"Talochas"
+                        },
+                        {
+                            "nombre":"Trencillas"
+                        }
+                    ]
+                
+        
+
      
-    ]
+    
 }
