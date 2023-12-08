@@ -3,29 +3,29 @@
         {
             "nombre":"Aceite diesel, industrial, vehiculos ligeros ",
             "marca":"Repsol",
-            "foto": "./TiendaOk/aceites/aceite repsol.png"
+            "foto": "./public/assets/TiendaOk/aceites/aceite repsol.png"
         },
         {
             "nombre":"Limpia parabrisas",
             "marca":"Repsol",
-            "foto": "./TiendaOk/aceites/limpiaparabrisas.png"
+            "foto": "./public/assets/TiendaOk/aceites/limpiaparabrisas.png"
         
         }],
         "capazos":[
             {
                 "nombre": "capazo1",
                 "medidas": "1x1x1",
-                "foto":"./TiendaOk/capazos/capazos-peque.png"
+                "foto":"./public/assets/TiendaOk/capazos/capazos-peque.png"
             },
             {
                 "nombre": "capazo2",
                 "medidas": "2x2",
-                "foto":"./TiendaOk/capazos/capazos-general.png"
+                "foto":"./public/assets/TiendaOk/capazos/capazos-general.png"
             },
             {
                 "nombre": "capazo3",
                 "medidas": "3x3",
-                "foto":"./TiendaOk/capazos/capazos1.png"
+                "foto":"./public/assets/TiendaOk/capazos/capazos1.png"
             }],
             "carteleria":[
                 {
@@ -43,45 +43,56 @@
                 },
                 {
                     "nombre":"Uso obligatorio de gafas de seguridad",
-                    "foto":"./TiendaOk/Carteleria/uso-gafas.png"
+                    "foto":"./src/public/TiendaOk/Carteleria/uso-gafas.png"
                 },
                 {
                     "nombre":"Velocidad",
                     "foto":"./TiendaOk/Carteleria/velocidad.png"
                 },
                 {
-                    "nombre":"Señales en general"
+                    "nombre":"Señales en general",
+                    "foto":"./TiendaOk/Carteleria/seguridad-general.png"
                 }],
                 "iluminacion":[
                     {
-                        "nombre":"Focos de luz"
+                        "nombre":"Focos de luz",
+                        "foto":"./TiendaOk/Iluminacion/focos.png"
                     },
                     {
-                        "nombre":"Valisas"
+                        "nombre":"Valisas",
+                        "foto":"./TiendaOk/Iluminacion/valisas.png"
                     },
                     {
-                        "nombre":"Luz de obra"
+                        "nombre":"Luz de obra",
+                        "foto":"./TiendaOk/Iluminacion/luz-obra.png"
                     }],
                     "seguridad":[
                         {
                             "nombre":"Calzado de seguridad",
-                            "tallas": "39, 40, 41, 42, 43, 44, 45"
+                            "tallas": "39, 40, 41, 42, 43, 44, 45",
+                            "foto":"./TiendaOk/Seguridad/calzado.png"
+
                         },
                         {
                             "nombre":"Cascos de obra",
-                            "color": "Variedad"
+                            "color": "Variedad",
+                            "foto":"./TiendaOk/Seguridad/cascos.png"
                         },
                         {
-                            "nombre":"Faja lumbar"
+                            "nombre":"Faja lumbar",
+                            "foto":"./TiendaOk/Seguridad/faja.png"
                         },
                         {
-                            "nombre": "Rodilleras"
+                            "nombre": "Rodilleras",
+                            "foto":"./TiendaOk/Seguridad/rodillera.png"
                         },
                         {
-                           "nombre":"Chaleco reflectante"
+                           "nombre":"Chaleco reflectante",
+                          "foto":"./TiendaOk/Seguridad/chaleco-reflectante-amarillo.jpg"
                         },
                         {
-                            "nombre":"Guantes"
+                            "nombre":"Guantes",
+                            "foto":"./TiendaOk/Seguridad/guantes.png"
                         }
                     ],
                     "herramientas":[
