@@ -3,12 +3,12 @@
         {
             "nombre":"Aceite diesel, industrial, vehiculos ligeros ",
             "marca":"Repsol",
-            "foto": "../../public/assets/TiendaOk/aceites/aceite repsol.png"
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030058/Tienda/aceite_repsol_rnolzk.png"
         },
         {
             "nombre":"Limpia parabrisas",
             "marca":"Repsol",
-            "foto": "../../public/assets/TiendaOk/aceites/limpiaparabrisas.png"
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030058/Tienda/limpiaparabrisas_m99uu2.png"
         
         }],
         "capazos":[
