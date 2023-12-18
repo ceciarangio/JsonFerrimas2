@@ -1,197 +1,201 @@
 {
-    "aceites":[ 
+    "aceites": [
         {
-            "nombre":"Aceite diesel, industrial, vehiculos ligeros ",
-            "marca":"Repsol",
+            "nombre": "Aceite diesel, industrial, vehiculos ligeros ",
+            "marca": "Repsol",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030058/Tienda/aceite_repsol_rnolzk.png"
         },
         {
-            "nombre":"Limpia parabrisas",
-            "marca":"Repsol",
+            "nombre": "Limpia parabrisas",
+            "marca": "Repsol",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030058/Tienda/limpiaparabrisas_m99uu2.png"
-        
-        }],
-        "capazos":[
-            {
-                "nombre": "capazo1",
-                "medidas": "1x1x1",
-                "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030057/Tienda/capazos-peque_bmz5o4.png"
-            },
-            {
-                "nombre": "capazo2",
-                "medidas": "2x2",
-                "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030053/Tienda/capazos-general_dhk5n6.png"
-            },
-            {
-                "nombre": "capazo3",
-                "medidas": "3x3",
-                "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030053/Tienda/capazos1_rvealt.png"
-            }],
-            "carteleria":[
-                {
-                    "nombre":"peligro",
-                    "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030044/Tienda/peligro_bqafut.png"
-
-                },
-                {
-                    "nombre":"Prohibido el Paso",
-                    "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030047/Tienda/prohibido-paso_bnsbgv.png"
-                },
-                {
-                    "nombre":"Stop",
-                    "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030048/Tienda/stop_etocpx.png"
-                },
-                {
-                    "nombre":"Uso obligatorio de gafas de seguridad",
-                    "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030052/Tienda/uso-gafas_khvxf7.png"
-                },
-                {
-                    "nombre":"Velocidad",
-                    "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030052/Tienda/velocidad_u9j2uf.png"
-                },
-                {
-                    "nombre":"Señales en general",
-                    "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030048/Tienda/seguridad-general_afbt5o.png"
-                }],
-                "iluminacion":[
-                    {
-                        "nombre":"Focos de luz",
-                        "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029956/Tienda/focos_c7a7jm.png"
-                    },
-                    {
-                        "nombre":"Valisas",
-                        "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029957/Tienda/valisas_ibbufw.png"
-                    },
-                    {
-                        "nombre":"Luz de obra",
-                        "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029957/Tienda/luz-obra_kibi2r.png"
-                    }],
-                    "seguridad":[
-                        {
-                            "nombre":"Calzado de seguridad",
-                            "tallas": "39, 40, 41, 42, 43, 44, 45",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/calzado_mjawnb.png"
-
-                        },
-                        {
-                            "nombre":"Cascos de obra",
-                            "color": "Variedad",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/cascos_fc1jhp.png"
-                        },
-                        {
-                            "nombre":"Faja lumbar",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/faja_jai6ai.png"
-                        },
-                        {
-                            "nombre": "Rodilleras",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029945/Tienda/rodillera_lvylnl.png"
-                        },
-                        {
-                           "nombre":"Chaleco reflectante",
-                          "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/chaleco-reflectante-amarillo_rgn5jt.png"
-                        },
-                        {
-                            "nombre":"Guantes",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/guantes_w8hma9.png"
-                        }
-                    ],
-                    "herramientas":[
-                        {
-                            "nombre":"Pilas",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029969/Tienda/bater_g7g9bp.png"
-                        },
-                        {
-                            "nombre":"Baterias",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029969/Tienda/baterias_e9llsp.png"
-                        },
-                        {
-                            "nombre":"Bidones de gasolina",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029970/Tienda/bidon_gasolina_jeilzd.png"
-                        },
-                        {
-                            "nombre":"Bomba de engrase",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029972/Tienda/bomba-engrase_bz6gmc.png"
-                        },
-                        {
-                            "nombre":"Bomba de presion",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029972/Tienda/bomba-presion_szttbp.png"
-                        },
-                        {
-                            "nombre":"Botas de agua",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029973/Tienda/botas-agua_yetgsz.png"
-                        },
-                        {
-                            "nombre":"Brocas Bosch",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029975/Tienda/brocas_cxasfq.png"
-                        },
-                        {
-                            "nombre":"Carracas",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029976/Tienda/carracas_wm0o7d.png"
-                        },
-                        {
-                            "nombre":"Carretillas",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029980/Tienda/carretillas_wlc0cc.png"
-                        },
-                        {
-                            "nombre":"Discos",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029985/Tienda/discos_kkqvls.png"
-                        },
-                        {
-                            "nombre":"Limpieza",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029969/Tienda/bater_g7g9bp.png"
-                        },
-                        {
-                            "nombre":"Niveladores, espátulas",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029985/Tienda/espatula-nivelador_sb4zoc.png"
-                        },
-                        {
-                            "nombre":"Espumas",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029986/Tienda/espumas_ppwziw.png"
-                        },
-                        {
-                            "nombre":"Generadores",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029990/Tienda/generador_z6rdzx.png"
-                        },
-                        {
-                            "nombre":"Grasas",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029990/Tienda/grasas_rawwkd.png"
-                        },
-                        {
-                            "nombre":"Hachas",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029991/Tienda/hacha_rc2u0d.png"
-                        },
-                        {
-                            "nombre":"Llaves",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029994/Tienda/llaves_y802et.png"
-                        },
-                        {
-                            "nombre":"Mangos, palos",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029999/Tienda/Mangos-pala-hacha_xml4an.png"
-                        },
-                        {
-                            "nombre":"Picos, rastrillos",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029999/Tienda/picos-rastrillos_eiyq3x.png"
-                        },
-                        {
-                            "nombre":"Sogas",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030003/Tienda/sogas_asqvi6.png"
-                        },
-                        {
-                            "nombre":"Taco Fisher",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030003/Tienda/taco-fisher_udu2aa.png"
-                        },
-                        {
-                            "nombre":"Talochas",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030004/Tienda/talochas_vhmrxs.png"
-                        },
-                        {
-                            "nombre":"Trencillas",
-                            "foto":"https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030027/Tienda/trencilla_myhwtg.png"
-                        }
-                    ]
-                
-        
-
-     
-    
+        }
+    ],
+    "capazos": [
+        {
+            "nombre": "Caldereta 11-16 L., Asa metálica",
+            "medidas": "1x1x1",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030057/Tienda/capazos-peque_bmz5o4.png"
+        },
+        {
+            "nombre": "Capazo",
+            "medidas": "2x2",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702910579/Tienda/capazo_vubwie.png"
+        },
+        {
+            "nombre": "Capazo 12L.",
+            "medidas": "3x3",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030053/Tienda/capazos1_rvealt.png"
+        }
+    ],
+    "carteleria": [
+        {
+            "nombre": "Peligro",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030044/Tienda/peligro_bqafut.png"
+        },
+        {
+            "nombre": "Prohibido el Paso",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030047/Tienda/prohibido-paso_bnsbgv.png"
+        },
+        {
+            "nombre": "Stop",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030048/Tienda/stop_etocpx.png"
+        },
+        {
+            "nombre": "Uso obligatorio de gafas de seguridad",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030052/Tienda/uso-gafas_khvxf7.png"
+        },
+        {
+            "nombre": "Velocidad",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030052/Tienda/velocidad_u9j2uf.png"
+        },
+        {
+            "nombre": "Señales en general",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030048/Tienda/seguridad-general_afbt5o.png"
+        }
+    ],
+    "iluminacion": [
+        {
+            "nombre": "Focos de luz",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029956/Tienda/focos_c7a7jm.png"
+        },
+        {
+            "nombre": "Valisas",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029957/Tienda/valisas_ibbufw.png"
+        },
+        {
+            "nombre": "Luz de obra",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029957/Tienda/luz-obra_kibi2r.png"
+        }
+    ],
+    "seguridad": [
+        {
+            "nombre": "Calzado de seguridad",
+            "tallas": "39, 40, 41, 42, 43, 44, 45",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/calzado_mjawnb.png"
+        },
+        {
+            "nombre": "Cascos de obra",
+            "color": "Variedad",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/cascos_fc1jhp.png"
+        },
+        {
+            "nombre": "Faja lumbar",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/faja_jai6ai.png"
+        },
+        {
+            "nombre": "Rodilleras",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029945/Tienda/rodillera_lvylnl.png"
+        },
+        {
+            "nombre": "Chaleco reflectante",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/chaleco-reflectante-amarillo_rgn5jt.png"
+        },
+        {
+            "nombre": "Guantes",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/guantes_w8hma9.png"
+        }
+    ],
+    "herramientas": [
+        {
+            "nombre": "Pilas",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029969/Tienda/bater_g7g9bp.png"
+        },
+        {
+            "nombre": "Baterias",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029969/Tienda/baterias_e9llsp.png"
+        },
+        {
+            "nombre": "Bidones de gasolina",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029970/Tienda/bidon_gasolina_jeilzd.png"
+        },
+        {
+            "nombre": "Bomba de engrase",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029972/Tienda/bomba-engrase_bz6gmc.png"
+        },
+        {
+            "nombre": "Bomba de presion",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029972/Tienda/bomba-presion_szttbp.png"
+        },
+        {
+            "nombre": "Botas de agua",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029973/Tienda/botas-agua_yetgsz.png"
+        },
+        {
+            "nombre": "Brocas Bosch",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029975/Tienda/brocas_cxasfq.png"
+        },
+        {
+            "nombre": "Carracas",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029976/Tienda/carracas_wm0o7d.png"
+        },
+        {
+            "nombre": "Carretillas",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029980/Tienda/carretillas_wlc0cc.png"
+        },
+        {
+            "nombre": "Discos",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029985/Tienda/discos_kkqvls.png"
+        },
+        {
+            "nombre": "Limpieza",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029985/Tienda/escoba-mocho-esponjas_ug4fj0.png"
+        },
+        {
+            "nombre": "Niveladores, espátulas",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029985/Tienda/espatula-nivelador_sb4zoc.png"
+        },
+        {
+            "nombre": "Espumas",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029986/Tienda/espumas_ppwziw.png"
+        },
+        {
+            "nombre": "Generadores",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029990/Tienda/generador_z6rdzx.png"
+        },
+        {
+            "nombre": "Grasas",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029990/Tienda/grasas_rawwkd.png"
+        },
+        {
+            "nombre": "Hachas",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029991/Tienda/hacha_rc2u0d.png"
+        },
+        {
+            "nombre": "Llaves",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029994/Tienda/llaves_y802et.png"
+        },
+        {
+            "nombre": "Mangos, palos",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029999/Tienda/Mangos-pala-hacha_xml4an.png"
+        },
+        {
+            "nombre": "Picos, rastrillos",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029999/Tienda/picos-rastrillos_eiyq3x.png"
+        },
+        {
+            "nombre": "Sogas",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030003/Tienda/sogas_asqvi6.png"
+        },
+        {
+            "nombre": "Taco Fisher",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030003/Tienda/taco-fisher_udu2aa.png"
+        },
+        {
+            "nombre": "Talochas",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030004/Tienda/talochas_vhmrxs.png"
+        },
+        {
+            "nombre": "Trencillas",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030027/Tienda/trencilla_myhwtg.png"
+        },
+        {
+            "nombre": "Cable Extensible",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702910547/Tienda/cable-extensible_wxueeg.png"
+        },
+        {
+            "nombre": "Podador a batería",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702910537/Tienda/podador-bateria_e4zjby.png"
+        }
+    ]
 }
