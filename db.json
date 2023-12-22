@@ -31,11 +31,11 @@
     "carteleria": [
         {
             "nombre": "Peligro",
-            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030044/Tienda/peligro_bqafut.png"
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703262552/Tienda/peligro_hh7qd1.png"
         },
         {
             "nombre": "Prohibido el Paso",
-            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030047/Tienda/prohibido-paso_bnsbgv.png"
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703262420/Tienda/prohibido-paso_ecuww8.png"
         },
         {
             "nombre": "Stop",
@@ -47,11 +47,11 @@
         },
         {
             "nombre": "Velocidad",
-            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030052/Tienda/velocidad_u9j2uf.png"
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703262747/Tienda/velocidad_aqfrnk.png"
         },
         {
             "nombre": "Señales en general",
-            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030048/Tienda/seguridad-general_afbt5o.png"
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703262825/Tienda/senales-general_i7uxlz.png"
         }
     ],
     "iluminacion": [
@@ -93,7 +93,7 @@
         },
         {
             "nombre": "Guantes",
-            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/guantes_w8hma9.png"
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703262936/Tienda/guantes_ljafni.png"
         }
     ],
     "herramientas": [
