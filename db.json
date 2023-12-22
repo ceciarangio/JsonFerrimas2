@@ -99,7 +99,7 @@
     "herramientas": [
         {
             "nombre": "Pilas",
-            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029969/Tienda/bater_g7g9bp.png"
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703256086/Tienda/bater_if2cul.png"
         },
         {
             "nombre": "Baterias",
@@ -107,7 +107,7 @@
         },
         {
             "nombre": "Bidones de gasolina",
-            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029970/Tienda/bidon_gasolina_jeilzd.png"
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703256369/Tienda/bidon_gasolina_sx4flz.png"
         },
         {
             "nombre": "Bomba de engrase",
@@ -119,15 +119,19 @@
         },
         {
             "nombre": "Botas de agua",
-            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029973/Tienda/botas-agua_yetgsz.png"
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703256175/Tienda/botas-agua_mz6xdn.png"
         },
         {
             "nombre": "Brocas Bosch",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029975/Tienda/brocas_cxasfq.png"
         },
         {
+            "nombre": "Cable Extensible",
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703256559/Tienda/cable-extensible_pgryxd.png"
+        },
+        {
             "nombre": "Carracas",
-            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029976/Tienda/carracas_wm0o7d.png"
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703256374/Tienda/carracas_gvhhfv.png"
         },
         {
             "nombre": "Carretillas",
@@ -155,7 +159,7 @@
         },
         {
             "nombre": "Grasas",
-            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029990/Tienda/grasas_rawwkd.png"
+            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703256734/Tienda/grasas_rypph5.png"
         },
         {
             "nombre": "Hachas",
@@ -188,10 +192,6 @@
         {
             "nombre": "Trencillas",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030027/Tienda/trencilla_myhwtg.png"
-        },
-        {
-            "nombre": "Cable Extensible",
-            "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702910547/Tienda/cable-extensible_wxueeg.png"
         }
     ]
 }
