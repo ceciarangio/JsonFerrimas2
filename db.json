@@ -98,99 +98,99 @@
     ],
     "herramientas": [
         {
-            "nombre": "Pilas",
+            "nombre": "translated-shop-gen-1",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703256086/Tienda/bater_if2cul.png"
         },
         {
-            "nombre": "Baterias",
+            "nombre": "translated-shop-gen-2",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029969/Tienda/baterias_e9llsp.png"
         },
         {
-            "nombre": "Bidones de gasolina",
+            "nombre": "translated-shop-gen-3",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703256369/Tienda/bidon_gasolina_sx4flz.png"
         },
         {
-            "nombre": "Bomba de engrase",
+            "nombre": "translated-shop-gen-4",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029972/Tienda/bomba-engrase_bz6gmc.png"
         },
         {
-            "nombre": "Bomba de presion",
+            "nombre": "translated-shop-gen-5",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029972/Tienda/bomba-presion_szttbp.png"
         },
         {
-            "nombre": "Botas de agua",
+            "nombre": "translated-shop-gen-6",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703256175/Tienda/botas-agua_mz6xdn.png"
         },
         {
-            "nombre": "Brocas Bosch",
+            "nombre": "translated-shop-gen-7",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029975/Tienda/brocas_cxasfq.png"
         },
         {
-            "nombre": "Cable Extensible",
+            "nombre":  "translated-shop-gen-8",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703256559/Tienda/cable-extensible_pgryxd.png"
         },
         {
-            "nombre": "Carracas",
+            "nombre": "translated-shop-gen-9",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703256374/Tienda/carracas_gvhhfv.png"
         },
         {
-            "nombre": "Carretillas",
+            "nombre":  "translated-shop-gen-10",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029980/Tienda/carretillas_wlc0cc.png"
         },
         {
-            "nombre": "Discos",
+            "nombre": "translated-shop-gen-11",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029985/Tienda/discos_kkqvls.png"
         },
         {
-            "nombre": "Limpieza",
+            "nombre": "translated-shop-gen-12",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029985/Tienda/escoba-mocho-esponjas_ug4fj0.png"
         },
         {
-            "nombre": "Niveladores, espátulas",
+            "nombre":  "translated-shop-gen-13",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029985/Tienda/espatula-nivelador_sb4zoc.png"
         },
         {
-            "nombre": "Espumas",
+            "nombre": "translated-shop-gen-14",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029986/Tienda/espumas_ppwziw.png"
         },
         {
-            "nombre": "Generadores",
+            "nombre": "translated-shop-gen-15",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029990/Tienda/generador_z6rdzx.png"
         },
         {
-            "nombre": "Grasas",
+            "nombre": "translated-shop-gen-16",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703256734/Tienda/grasas_rypph5.png"
         },
         {
-            "nombre": "Hachas",
+            "nombre": "translated-shop-gen-17",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029991/Tienda/hacha_rc2u0d.png"
         },
         {
-            "nombre": "Llaves",
+            "nombre": "translated-shop-gen-18",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703256897/Tienda/llaves_abwlnu.png"
         },
         {
-            "nombre": "Mangos, palos",
+            "nombre": "translated-shop-gen-19",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029999/Tienda/Mangos-pala-hacha_xml4an.png"
         },
         {
-            "nombre": "Picos, rastrillos",
+            "nombre":  "translated-shop-gen-20",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029999/Tienda/picos-rastrillos_eiyq3x.png"
         },
         {
-            "nombre": "Sogas",
+            "nombre": "translated-shop-gen-21",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030003/Tienda/sogas_asqvi6.png"
         },
         {
-            "nombre": "Taco Fisher",
+            "nombre": "translated-shop-gen-22",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030003/Tienda/taco-fisher_udu2aa.png"
         },
         {
-            "nombre": "Talochas",
+            "nombre": "translated-shop-gen-23",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030004/Tienda/talochas_vhmrxs.png"
         },
         {
-            "nombre": "Trencillas",
+            "nombre": "translated-shop-gen-24",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030027/Tienda/trencilla_myhwtg.png"
         }
     ]
