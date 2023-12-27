@@ -1,98 +1,98 @@
 {
     "aceites": [
         {
-            "nombre": "Aceite diesel, industrial, vehiculos ligeros ",
+            "nombre": "translated-shop-aceit-1",
             "marca": "Repsol",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030058/Tienda/aceite_repsol_rnolzk.png"
         },
         {
-            "nombre": "Limpia parabrisas",
+            "nombre": "translated-shop-aceit-2",
             "marca": "Repsol",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030058/Tienda/limpiaparabrisas_m99uu2.png"
         }
     ],
     "capazos": [
         {
-            "nombre": "Caldereta 11-16 L., Asa metálica",
+            "nombre": "translated-shop-capazos-1",
             "medidas": "1x1x1",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030057/Tienda/capazos-peque_bmz5o4.png"
         },
         {
-            "nombre": "Capazo",
+            "nombre": "translated-shop-capazos-2",
             "medidas": "2x2",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702910579/Tienda/capazo_vubwie.png"
         },
         {
-            "nombre": "Capazo 12L.",
+            "nombre": "translated-shop-capazos-3",
             "medidas": "3x3",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030053/Tienda/capazos1_rvealt.png"
         }
     ],
     "carteleria": [
         {
-            "nombre": "Peligro",
+            "nombre": "translated-shop-cart-1",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703262552/Tienda/peligro_hh7qd1.png"
         },
         {
-            "nombre": "Prohibido el Paso",
+            "nombre": "translated-shop-cart-2",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703262420/Tienda/prohibido-paso_ecuww8.png"
         },
         {
-            "nombre": "Stop",
+            "nombre": "translated-shop-cart-3",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030048/Tienda/stop_etocpx.png"
         },
         {
-            "nombre": "Uso obligatorio de gafas de seguridad",
+            "nombre": "translated-shop-cart-4",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702030052/Tienda/uso-gafas_khvxf7.png"
         },
         {
-            "nombre": "Velocidad",
+            "nombre": "translated-shop-cart-5",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703262747/Tienda/velocidad_aqfrnk.png"
         },
         {
-            "nombre": "Señales en general",
+            "nombre": "translated-shop-cart-6",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703262825/Tienda/senales-general_i7uxlz.png"
         }
     ],
     "iluminacion": [
         {
-            "nombre": "Focos de luz",
+            "nombre": "translated-shop-ilum-1",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029956/Tienda/focos_c7a7jm.png"
         },
         {
-            "nombre": "Balizas",
+            "nombre": "translated-shop-ilum-2",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029957/Tienda/valisas_ibbufw.png"
         },
         {
-            "nombre": "Luz de obra",
+            "nombre": "translated-shop-ilum-3",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029957/Tienda/luz-obra_kibi2r.png"
         }
     ],
     "seguridad": [
         {
-            "nombre": "Calzado de seguridad",
+            "nombre": "translated-shop-segu-1",
             "tallas": "39, 40, 41, 42, 43, 44, 45",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/calzado_mjawnb.png"
         },
         {
-            "nombre": "Cascos de obra",
+            "nombre": "translated-shop-segu-2",
             "color": "Variedad",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/cascos_fc1jhp.png"
         },
         {
-            "nombre": "Faja lumbar",
+            "nombre": "translated-shop-segu-3",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/faja_jai6ai.png"
         },
         {
-            "nombre": "Rodilleras",
+            "nombre": "translated-shop-segu-4",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029945/Tienda/rodillera_lvylnl.png"
         },
         {
-            "nombre": "Chaleco reflectante",
+            "nombre": "translated-shop-segu-5",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1702029944/Tienda/chaleco-reflectante-amarillo_rgn5jt.png"
         },
         {
-            "nombre": "Guantes",
+            "nombre": "translated-shop-segu-6",
             "foto": "https://res.cloudinary.com/df7wwsyfn/image/upload/v1703262936/Tienda/guantes_ljafni.png"
         }
     ],
